@@ -1,0 +1,26 @@
+# V1.1
+> ## Descrizione:
+> La nuova versione del bot è stata ormai conclusa, ecco le aggiunte:
+> 
+> ## Aggiunte:
+>> ### Counting
+>> È stato aggiunto il minigioco del counting, consiste nel digitare il numero successivo a quello digitato dal giocatore precedente partendo dal numero 1. Per ora non è possibile scrivere operazioni al posto dei numeri, ogni messaggio che non contenga un numero non verrà considerato.
+>> ### Comando stats
+>> È stato aggiunto il comando /stats permetterà di vedere le proprie statistiche (per ora sono quelle del counting)
+>> ### Comando info
+>> È stato aggiunto il comando /info che permette di visualizzare le info del bot: ping, uptime, statistiche del counting.
+> ## Cambiamenti:
+> - Nessun cambiamento
+> ## Discord
+> <button href="https://discord.gg/v2QtK49bQg" style="background-color: #5865F2">Server</button>
+> <button href="https://discord.com/channels/801883310262321213/998658924905513000/999055330883424276" style="background-color: #99AAB5">Messaggio</button>
+# V1.0
+> ## Descrizione:
+> La prima versione di Capibara bot
+> 
+> ## Aggiunte:
+>> - /capibara
+>> - /help
+>> - /ping
+> ## Cambiamenti:
+> - Nessun cambiamento
